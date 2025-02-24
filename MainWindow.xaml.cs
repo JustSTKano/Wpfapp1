@@ -25,6 +25,7 @@ public partial class MainWindow : Window
 
 
 
+
         sky = new Polyline();
         sky.Points = new PointCollection()
         {
